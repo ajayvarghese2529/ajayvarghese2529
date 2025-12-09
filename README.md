@@ -61,10 +61,6 @@ I practice end-to-end DevOps workflows:
 
 ---
 
-## 📈 GitHub Stats  
-![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajayvarghese2529&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajayvarghese2529&layout=compact&theme=tokyonight)
 
 ---
 
