@@ -2,7 +2,7 @@
 **DevOps & Cloud Engineer**
 
 I work with Cloud, Containers, CI/CD, automation, and infrastructure-as-code.  
-Currently improving my AWS + DevOps skills through hands-on practice and real-world labs.
+Currently improving my AWS + DevOps skills through hands-on practice and real-world capestone projects. 
 
 ---
 
