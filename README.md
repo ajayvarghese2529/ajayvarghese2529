@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./DevOps-for-Project-Managers.png" width="600" />
+</p>
+
 # 👋 Hi, I'm Ajay Varghese  
 **DevOps & Cloud Engineer**
 
