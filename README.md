@@ -5,7 +5,7 @@
 # 👋 Hi, I'm Ajay Varghese  
 **DevOps & Cloud Engineer**
 
-I am a Mechanical Engineering graduate from Pune University with a PGDM in Operations Management. I began my career with Tech Mahindra in August 2018 and grew into a Team Leader role by November 2022, leading UK sales operations, driving performance, coaching teams, and managing client-focused deliverables in a fast-paced environment.
+I am a Mechanical Engineering graduate from Pune University with a PGDM in Operations Management. I began my career with Tech Mahindra in August 2018 and grew into a **Team Leader** role by November 2022, **leading UK sales operations, driving performance, coaching teams, and managing client-focused deliverables in a fast-paced environment.**
 
 I am now transitioning into IT to build a career in Cloud and DevOps. I work with AWS Cloud, Linux Administration, Git & GitHub, Jenkins CI/CD, Maven, Docker, Docker Compose, Kubernetes, Terraform, Ansible, Prometheus, and Grafana, focusing on automation, cloud infrastructure, and modern DevOps practices.
 
